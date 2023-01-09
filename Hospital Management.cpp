@@ -1166,12 +1166,12 @@ void all::software_detail()
 {
  clrscr();
  cout<<"\n\n\n\t\t\t ***SOFTWARE DETAILS***\n";
- cout<<"\n\n\tDeveloper                : Mustafizur Rohman "<<"\n";
+ cout<<"\n\n\tDeveloper                : Shiva Raj Paudel "<<"\n";
  cout<<"\tProgramming Language     : C++ "<<"\n";
  cout<<"\tCompiler version         : Borland 5.02 "<<"\n";
  cout<<"\tAim                      : Simulation of Hospital Management Software"<<"\n";
  cout<<"\n\tHope you like it..."<<"\n";
- cout<<"\n\n\tSend your comments to    : mustafizur_04@sify.com "<<"\n";
+ cout<<"\n\n\tSend your comments to    : student.shivarajpaudel@gmai.com"<<"\n";
  cout<<"\n\n\tThank You for trying this program. "<<"\n";
  cout<<"\a\n\n\n\tPress any key to return to the main task menu......."<<"\n";
  getch();
