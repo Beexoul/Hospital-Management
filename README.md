@@ -1,4 +1,4 @@
 # Hospital-Management
 Hospital Management using C++
 
-// Refrence is taken from diff places of internet while building this code.
+//Reference were taken from different places on the internet while building this code.
